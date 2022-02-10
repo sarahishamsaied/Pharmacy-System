@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddCashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPharmacist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllStaffMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SellProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
