@@ -1,6 +1,6 @@
 > # Project Overview
 > 
-> Pharmacy App is a desktop-based solution. This system software is developed by C# and .NET Framework with user friendly functionalities. Designed to keep the track record of the products, sales, customers and employees with simple CRUD operations. 
+> Pharmacy App is a desktop-based solution. This system software is developed by C# and .NET Framework with user friendly functionalities. Designed to keep track record of products, sales, customers and staff members with simple CRUD operations. 
 >
 # Features
 | Feature | Preview |
